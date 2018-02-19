@@ -1,0 +1,16 @@
+.employee-container {
+    margin-top: 20px;
+}
+
+.show-grid {
+    border-bottom: 1px solid lightgrey;
+    padding-top: 8px;
+}
+.show-col-header {
+    border-bottom: 1px solid lightgrey;
+    padding-top: 8px;
+    font-weight: bold;
+}
+.edit-btn, .delete-btn {
+     padding-bottom: 3px;
+}

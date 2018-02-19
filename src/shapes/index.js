@@ -1,0 +1,1 @@
+export { EmployeeEntity } from './EmployeeEntity';
